@@ -107,7 +107,6 @@ i {
 .columnAction > button {
 	background: transparent;
 	border: none;
-  cursor: pointer;
 }
 
 .columnAmount {
